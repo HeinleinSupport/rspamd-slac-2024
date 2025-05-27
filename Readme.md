@@ -1,7 +1,11 @@
+> [!IMPORTANT]  
+> Die Fortsetzung des Workshops aus dem Jahr 2025 findet ihr hier: [https://github.com/HeinleinSupport/rspamd-slac-2025](https://github.com/HeinleinSupport/rspamd-slac-2025)
+
+
+> [!TIP]
+> Our workshop in English: [https://github.com/HeinleinSupport/rspamd-slac-2024/blob/main/Readme_eng.md](https://github.com/HeinleinSupport/rspamd-slac-2024/blob/main/Readme_eng.md)
+
 <img src="./images/slac2024.png" alt="SLAC 2024 06.-08.05.2024 Berlin"/>
-
-- Our workshop in English: [https://github.com/HeinleinSupport/rspamd-slac-2024/blob/main/Readme_eng.md](https://github.com/HeinleinSupport/rspamd-slac-2024/blob/main/Readme_eng.md)
-
 
 *****
 
